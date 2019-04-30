@@ -1,0 +1,27 @@
+@font-face {
+    font-family: 'rieslingregular';
+    src: url('fonts/riesling-webfont.eot');
+    src: url('fonts/riesling-webfont.eot?#iefix') format('embedded-opentype'),
+         url('fonts/riesling-webfont.woff2') format('woff2'),
+         url('fonts/riesling-webfont.woff') format('woff'),
+         url('fonts/riesling-webfont.ttf') format('truetype'),
+         url('fonts/riesling-webfont.svg#rieslingregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+p 
+{ 
+	font-family: 'rieslingregular', Impact, Arial, sans-serif; 
+}
+
+p
+{
+	color: blue;
+	font-size: 2.4em;
+}
+
+h1
+{
+	font-size: 2.4em;
+}
